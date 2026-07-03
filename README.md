@@ -2,10 +2,10 @@
 
 ## Datos personales
 
-Nombre: [Escribe tu nombre completo]
-Carrera: [Escribe tu carrera]
-Semestre: [Escribe tu semestre]
-Asignatura: [Escribe la asignatura]
+Nombre: JOSÉ JORGE SOLÓRZANO CEVALLOS.
+Carrera: TIC.
+Semestre: 5 TO
+Asignatura: SOFTWARE II
 
 ## Descripción del proyecto
 
