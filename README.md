@@ -2,8 +2,9 @@
 
 ## Datos personales
 
-Nombre: JOSÉ JORGE SOLORZANO CEVALLOS.
-Carrera: TIC
+
+Nombre: JOSÉ JORGE SOLÓRZANO CEVALLOS.
+Carrera: TIC.
 Semestre: 5 TO
 Asignatura: SOFTWARE II
 
